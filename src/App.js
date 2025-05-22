@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in less than two days
+          Learn React with Amplify -  hoo hoo
         </a>
       </header>
     </div>
